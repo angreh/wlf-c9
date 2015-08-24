@@ -1,0 +1,17 @@
+<div class="row" ng-controller="loginCtrl">
+    <form class="col s12" ng-submit="submit()">
+        <div class="row">
+            <div class="input-field col s6">
+                <input id="email" name="email" type="text" ng-model="user.email">
+                <label for="email" translate>Email</label>
+            </div>
+
+            <div class="input-field col s6">
+                <input id="pass" name="pass" type="password" ng-model="user.pass">
+                <label for="pass" translate>Password</label>
+            </div>
+
+            <button  id="first_name" type="submit" class="waves-effect waves-light btn" translate>Submit</button>
+        </div>
+    </form>
+</div>

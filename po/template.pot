@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: front/partials/login/index.html:6
+msgid "Email"
+msgstr ""
+
+#: front/partials/login/index.html:11
+msgid "Password"
+msgstr ""
+
+#: front/partials/login/index.html:14
+msgid "Submit"
+msgstr ""
